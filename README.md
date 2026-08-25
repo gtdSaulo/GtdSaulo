@@ -26,7 +26,7 @@ title="CSS"
 width="30px"
 style="padding-right: 10px;"
 src = "https://devicon-website.vercel.app/api/css3/original.svg" 
-/>
+ />
 <img
 align="left"
 alt="JS"
@@ -60,6 +60,18 @@ style="padding-right: 10px;"
 src = "https://devicon-website.vercel.app/api/git/original.svg"
 />
 
+<br/>
+<br/>
+
+### 📖 Sites e Livros / para estudos
+
+- #### HTML e CSS: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#html-and-css
+
+- #### JavaScript: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#javascript
+
+### 📂 Projetos
+
+- #### Link: https://github.com/gtdSaulo/First-Project
 
 
 
