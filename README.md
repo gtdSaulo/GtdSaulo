@@ -2,8 +2,8 @@
 
  Sou do ES, estou no ensino médio cursando **Técnico em Informatica** gosto muito de tecnologia e focado em criar soluções web eficientes. Atualmente eu estou aprimorando minhas abilidades em desenvolvimento **[Front-end / Back-end / Full-stack]**
 
- - 🔭 No momento eu estou trabalhando em: Desenvolvimento de sites (`HTML, CSS E JS`)
- - 🌱 Estou aprendendo: React e node.js, e aperfeiçoando mais no java script
+ - 🔭 No momento eu estou desenvolvendo projetos e estudando
+ - 🌱 Estou aprimorando em: Python(Flask) e Banco de Dados
  - 📫 Como falar comigo: `saulogtddias@gmail.com`
 
  ---
@@ -58,6 +58,22 @@ title="GIT"
 width="30px"
 style="padding-right: 10px;"
 src = "https://devicon-website.vercel.app/api/git/original.svg"
+/>
+<img
+align="left"
+alt="PYTHON"
+title="PYTHON"
+width="30px"
+style="padding-right: 10px;"
+src = "https://devicon-website.vercel.app/api/python/original.svg"
+/>
+<img
+align="left"
+alt="MYSQL"
+title="MYSQL"
+width="30px"
+style="padding-right: 10px;"
+src = "https://devicon-website.vercel.app/api/mysql/original.svg"
 />
 
 <br/>
