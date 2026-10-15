@@ -37,14 +37,6 @@ src = "https://devicon-website.vercel.app/api/javascript/original.svg"
 />
 <img
 align="left"
-alt="REACT"
-title="REACT"
-width="30px"
-style="padding-right: 10px;"
-src = "https://devicon-website.vercel.app/api/react/original.svg"
-/>
-<img
-align="left"
 alt="NODE.JS"
 title="NODE.JS"
 width="30px"
@@ -58,22 +50,6 @@ title="GIT"
 width="30px"
 style="padding-right: 10px;"
 src = "https://devicon-website.vercel.app/api/git/original.svg"
-/>
-<img
-align="left"
-alt="PYTHON"
-title="PYTHON"
-width="30px"
-style="padding-right: 10px;"
-src = "https://devicon-website.vercel.app/api/python/original.svg"
-/>
-<img
-align="left"
-alt="MYSQL"
-title="MYSQL"
-width="30px"
-style="padding-right: 10px;"
-src = "https://devicon-website.vercel.app/api/mysql/original.svg"
 />
 
 <br/>
